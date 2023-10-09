@@ -2,7 +2,7 @@
     "games": [
       {
         "id": 1,
-        "name": "CS-GO",
+        "name": "CS-GO EVENT",
         "image": "https://ibb.co/q5PDMND",
         "description": "Competitive first-person shooter. Team tactics, precise shooting, and strategy are crucial for victory.",
         "price": 59.99,
@@ -10,7 +10,7 @@
       },
       {
         "id": 2,
-        "name": "Valorant",
+        "name": "Valorant EVENT",
         "image": "https://ibb.co/T21H8XY",
         "description": "Tactical shooter with unique abilities. Team-based matches and strategic gameplay.",
         "price": 49.99,
@@ -18,7 +18,7 @@
       },
       {
         "id": 3,
-        "name": "Mystical Realms: Secrets of the Ancients",
+        "name": "Mystical Realms: Secrets of the Ancients EVENT",
         "image": "https://ibb.co/G9ygwv4",
         "description": "Solve ancient mysteries in a mystical world.",
         "price": 39.99,
@@ -26,7 +26,7 @@
       },
       {
         "id": 4,
-        "name": "Pirate's Legacy: Treasures of the Abyss",
+        "name": "Pirate's Legacy: Treasures of the Abyss EVENT",
         "image": "https://ibb.co/MP8jm23",
         "description": "Search for hidden treasures on the high seas.",
         "price": 54.99,
@@ -34,7 +34,7 @@
       },
       {
         "id": 5,
-        "name": "Zombie Outbreak: Survival Chronicles",
+        "name": "Zombie Outbreak: Survival Chronicles EVENT",
         "image": "https://ibb.co/vXr5b8m",
         "description": "Survive the zombie apocalypse and save humanity.",
         "price": 44.99,
@@ -42,7 +42,7 @@
       },
       {
         "id": 6,
-        "name": "Sci-Fi Shooter: Battle for Tomorrow",
+        "name": "Sci-Fi Shooter: Battle for Tomorrow EVENT",
         "image": "https://ibb.co/wQhJPcr",
         "description": "Battle futuristic enemies in this action-packed shooter.",
         "price": 49.99,
@@ -50,7 +50,7 @@
       },
       {
         "id": 7,
-        "name": "Medieval Hero: Quest for Glory",
+        "name": "Medieval Hero: Quest for Glory EVENT",
         "image": "https://ibb.co/GTh9ty9",
         "description": "Live the life of a medieval hero in a vast open world.",
         "price": 59.99,
